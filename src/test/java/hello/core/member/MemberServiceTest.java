@@ -1,6 +1,6 @@
 package hello.core.member;
 
-import hello.core.order.AppConfig;
+import hello.core.AppConfig;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
